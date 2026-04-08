@@ -13,7 +13,7 @@
 - 🤖 &nbsp;**AI/ML Engineering** — PyTorch, Python, LLMs, Azure, scikit-learn
 - ⚡ &nbsp;**Electrical Engineering + AI** — applying ML to automate complex engineering workflows (MEP, NEC compliance, BIM)
 - 🎓 &nbsp;**Teaching Assistant** — CIS 5210: Artificial Intelligence, University of Pennsylvania
-- 🏗️ &nbsp;**Domain Expertise** — mission-critical healthcare & life science facility design (KCI Technologies, BR+A Consulting)
+- 🏗️ &nbsp;**Domain Expertise** — mission-critical healthcare & life science facility design (BR+A Consulting, KCI Technologies)
 
 ---
 
