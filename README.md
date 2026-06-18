@@ -22,7 +22,7 @@
 ### ⚡ NEC-Compliant Electrical Circuiting Plugin
 > **Python · ML Models · Revit API · Production Deployed**
 
-A production-deployed Revit plugin that automates NEC-compliant electrical circuiting for large-scale building projects using Python and machine learning models. Achieved significant time reduction across real-world MEP projects.
+A Revit plugin that automates NEC-compliant electrical circuiting for large-scale building projects using Python and machine learning models. Achieved significant time reduction across real-world MEP projects.
 
 - Replaced manual circuiting workflows with an ML-driven automation pipeline
 - Handles complex NEC code compliance logic programmatically
