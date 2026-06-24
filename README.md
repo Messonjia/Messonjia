@@ -4,7 +4,6 @@
 
 > I build at the intersection of **AI/ML** and **engineering systems** — from production-deployed ML tools that automate real-world workflows, to graduate-level AI research at Penn.
 > 
-> 🟢 **Open to work** — seeking entry-level AI / Software Engineering roles
 
 ---
 
